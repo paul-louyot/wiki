@@ -15,4 +15,6 @@
 ## Blogs
 
 * [WaitButWhy](blogs/waitbutwhy.md)
+* [EA ressources](https://www.effectivealtruism.org/resources/)
+
 
