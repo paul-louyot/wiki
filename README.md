@@ -1,7 +1,3 @@
----
-description: This is Paul's personal wiki.
----
-
 # Introduction
 
 This wiki is designed to easily share what I learn. 
