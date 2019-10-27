@@ -6,6 +6,7 @@
 
 ## Books
 
-* Ne jamais couper la poire en deux
-* Qui peut sauver la morale ?
+* _Ne jamais couper la poire en deux_
+* _Qui peut sauver la morale ?_
+* _Hackers and Painters_, Paul Graham
 

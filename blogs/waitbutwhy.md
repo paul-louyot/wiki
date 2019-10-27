@@ -2,7 +2,7 @@
 
 ## A Game of Giants
 
-to survive through human history, it makes sense that our genes had to be good at competing as an individual against their brother and competing with their family against other families and competing with their tribe against other tribes.
+To survive through human history, it makes sense that our genes had to be good at competing as an individual against their brother and competing with their family against other families and competing with their tribe against other tribes.
 
 To me, someone is being tribal when they’re thinking and behaving more like a piece of a larger organism than as an independent organism themselves.
 
