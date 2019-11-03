@@ -8,6 +8,7 @@
 * [Books I recommend](books-i-recommend.md)
 * [Future plans](future-plans.md)
 * [Open questions](open-questions.md)
+* [Inspirations](inspirations.md)
 
 ## Computer Science
 

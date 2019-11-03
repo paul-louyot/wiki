@@ -1,6 +1,6 @@
 # Introduction
 
-This wiki is designed to easily share what I learn. 
+This wiki is designed to easily share what I learn.
 
 It is heavily influenced by the wiki of Nikita Voloboev, that you can find here: [https://wiki.nikitavoloboev.xyz/](https://wiki.nikitavoloboev.xyz/)
 
