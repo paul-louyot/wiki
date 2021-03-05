@@ -1,0 +1,5 @@
+- Practice noticing confusion and uncertainty. What are some instances where you’ve been confused and uncertain today? What did that feel like?
+- Practice noticing overconfidence and underconfidence. What are some instances of this you had today? What did that feel like? How did you know you were over-/underconfident?
+- Practice asking yourself “how might I be wrong about X? How could I find out if I’m wrong?” where X could be something you've been thinking about today. Jot down your answer.
+- Practice asking yourself “how might [someone you respect] be wrong about Y? How could I find out if [so-and-so] is wrong?” Jot down your answer.
+- Practice asking yourself “what would make me change my mind about Z? What are some steps I could take to get info on those things?” Jot down your answer.
