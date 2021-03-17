@@ -12,5 +12,5 @@ also this talk:
 
 {% embed url="https://www.youtube.com/watch?v=qqt6YxAZoOc" %}
 
-## Kubernetes
+
 

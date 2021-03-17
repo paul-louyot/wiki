@@ -3,6 +3,7 @@
 ## Articles
 
 * [https://forum.effectivealtruism.org/posts/LPMtTvfZvhZqy25Jw/what-consequences](https://forum.effectivealtruism.org/posts/LPMtTvfZvhZqy25Jw/what-consequences)
+* [https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/copy-paste/](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/copy-paste/)
 
 ## Books
 
