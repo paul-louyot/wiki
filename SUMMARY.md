@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Knowledge management](knowledge-management.md)
 * [CSS](css.md)
 * [MBTI](mbti.md)
 * [Want to read](want-to-read.md)
